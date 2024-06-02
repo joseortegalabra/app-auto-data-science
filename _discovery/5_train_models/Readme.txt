@@ -1,0 +1,1 @@
+USE THE NOTEBOOK "send_jobs_vertex" to run the codes that take the script (that have the train and the registry of runs) and send a job in vertex

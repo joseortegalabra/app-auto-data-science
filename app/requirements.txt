@@ -1,0 +1,19 @@
+streamlit
+gunicorn
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+scikit-learn
+python-dotenv
+gcsfs
+joblib
+openpyxl
+
+# itertools
+
+# cloud gcp
+google-cloud-bigquery 
+db-dtypes
+google-cloud-aiplatform

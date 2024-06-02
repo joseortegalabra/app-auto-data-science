@@ -1,0 +1,39 @@
+# Environments
+.env
+**/.env
+*.env
+
+
+# pkl data
+.pkl
+**/.pkl
+*.pkl
+
+
+# jsons
+.json
+**/.json
+*.json
+
+
+# json - sa - redundante
+sa-gcp-ds-mvp.json
+**/sa-gcp-ds-mvp.json
+*sa-gcp-ds-mvp.json
+
+
+# DS Store Mac file
+.DS_Store
+**/DS_Store
+*DS_Store
+
+
+# checkpoints
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# pycache
+__pycache__
+**/__pycache__
+*__pycache__
